@@ -1,0 +1,9 @@
+com\emergentes\modelos\Seminario.class
+com\emergentes\controlador\SeminarioControlador.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\dao\SeminarioDAO.class
+com\emergentes\dao\ParticipanteDAO_imp.class
+com\emergentes\dao\SeminarioDAO_imp.class
+com\emergentes\controlador\ParticipanteControlador.class
+com\emergentes\dao\ParticipanteDAO.class
+com\emergentes\modelos\Participante.class
